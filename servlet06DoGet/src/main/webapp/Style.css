@@ -1,0 +1,58 @@
+
+@charset "UTF-8";
+body{
+	background-image: url("https://static.vecteezy.com/system/resources/previews/004/753/390/large_2x/dark-wood-texture-old-panels-background-free-photo.jpg");
+	background-size: cover;
+}
+h1{
+	color:white;
+	text-align: center;
+	font-family: sans-serif;
+}
+div{
+	background-color: yellow;
+	margin:auto;
+	padding: 25px;
+	text-align: center;
+	border-radius:15px;
+	width:450px;
+	height:300px;
+	padding-top:40px;
+	justify-content: center;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWUnW3woYk7RyrgTzc57l3uCK-XYWohrbEw&s");
+	background-size: cover;
+}
+form{
+	margin:auto;
+}
+input{
+	border-radius:25px;
+	background-color: white;
+	padding:10px;
+	width: auto;
+	height: 20px;
+	font-size:25px;
+	margin:20px;
+	cursor:text;
+}
+#submit{
+	background-color:white;
+	justify-content:center;
+	padding: 10px;
+	padding-top:6px;
+	text-align:center;
+	border-radius: 20px;
+	width:150px;
+	height:50px;
+	color: black;
+	font-weight:bolder;
+	font-size:25px;
+	font-family: cursive;
+	cursor: pointer;
+	margin-left: 40px;
+	
+}
+#submit:hover {
+	background-color: black;
+	color: white;
+}
